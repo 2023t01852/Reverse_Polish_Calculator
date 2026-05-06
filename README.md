@@ -35,11 +35,11 @@ Reverse Polish Notation (RPN), also known as postfix notation, is a mathematical
 
 🧪 **Test Cases**
 
-| Input                  | Output |
-|------------------------|--------|
-| 7 2 +                  | 9.00   |
-| 15 5 /                 | 3.00   |
-| 9 1 8 + 4 * + 3 -      | 42.00  |
+| Input                      | Output |
+|------------------------    |--------|
+| 4 3 +                      | 7.00   |
+| 75 5 /                     | 15.00   |
+|  8 2 5 * + 1 3 2 * + 4 - / | 6.00  |
 
 ---
 
